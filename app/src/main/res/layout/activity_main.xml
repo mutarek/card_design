@@ -141,7 +141,7 @@
                             android:gravity="center"
                             android:text="12,000.00"
                             android:textColor="@color/white"
-                            android:textSize="@dimen/_18sdp"
+                            android:textSize="@dimen/_16sdp"
                             android:textStyle="bold" />
 
                     </LinearLayout>
@@ -184,7 +184,7 @@
                             android:gravity="center"
                             android:text="12,000.00"
                             android:textColor="@color/white"
-                            android:textSize="@dimen/_18sdp"
+                            android:textSize="@dimen/_16sdp"
                             android:textStyle="bold" />
 
                     </LinearLayout>
@@ -218,9 +218,10 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Wallet ID: "
+                android:gravity="center"
+                android:text="Wallet ID: 1234567"
                 android:textColor="@color/white"
-                android:textSize="@dimen/_10sdp" />
+                android:textSize="@dimen/_15sdp" />
 
 
             <LinearLayout
